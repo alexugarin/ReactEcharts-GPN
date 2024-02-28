@@ -1,6 +1,8 @@
 ### Итог
 [Ссылка с заданием на github](https://github.com/alexugarin/ReactEcharts-GPN "Ссылка с заданием на github")
+
 [Ссылка на деплой приложения на vercel](https://react-echarts-gpn.vercel.app/ "Ссылка на деплой приложения на vercel")
+
 Исходный текст задания в AboutTask.md, макет в Figma: https://www.figma.com/file/CppcOcor3NP1BfrppRgd4a/Test?node-id=0%3A1&mode=dev
 
 ### Ход выполнения
